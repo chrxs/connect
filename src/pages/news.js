@@ -1,5 +1,4 @@
 import * as React from "react";
-import { Button } from "theme-ui";
 
 const NewsPage = () => {
   return (
